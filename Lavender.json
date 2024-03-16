@@ -1,10 +1,8 @@
 {
   "name": "Lavender V2",
-  "description": "Fixed version of the 'lavender' theme.",
+  "description": "Blooming lavender, original by Neyako.",
   "authors": [
     {
-      "name": "Neyako",
-      "id": "329946665043623936",
       "name": "darealyeeto",
       "id": "980160393093730395"
     }
@@ -122,6 +120,15 @@
     "CHANNELS_DEFAULT": [
       "#c8c8c8",
       "#6a7480"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#000000"
+    ],
+    "BG_BACKDROP": [
+      "#04010173"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#000000"
     ],
     "TEXT_LINK": [
       "#5368F9",
