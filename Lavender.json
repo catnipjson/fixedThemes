@@ -1,14 +1,13 @@
 {
   "name": "Lavender V2",
-  "description": "Blooming lavender, original by Neyako.",
+  "description": "Blooming lavender.",
   "authors": [
     {
       "name": "darealyeeto",
       "id": "980160393093730395"
     }
   ],
-  "specs": 1,
-  "theme_color_map": {
+  "semanticColors": {
     "HEADER_PRIMARY": [
       "#ffffff",
       "#060607"
@@ -22,20 +21,20 @@
       "#2e3338"
     ],
     "TEXT_MUTED": [
-      "#767676",
-      "#767676"
+      "#8879FF",
+      "#8879FF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffffff",
-      "#5368F9"
+      "#8879FF",
+      "#8879FF"
     ],
     "INTERACTIVE_HOVER": [
-      "#dcddde",
-      "#2e3338"
+      "#8879FF",
+      "#8879FF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff",
-      "#060607"
+      "#8879FF",
+      "#8879FF"
     ],
     "INTERACTIVE_MUTED": [
       "#363636",
@@ -147,21 +146,30 @@
       "#FFFFFF"
     ]
   },
-  "colours": {
-    "PRIMARY_DARK": "#000000",
-    "PRIMARY_DARK_100": "#FFFFFF",
-    "PRIMARY_DARK_200": "#FFFFFF",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#808080",
-    "PRIMARY_DARK_500": "#5368F9",
-    "PRIMARY_DARK_600": "#111011",
-    "PRIMARY_DARK_630": "#1a1b21",
-    "PRIMARY_DARK_700": "#101010",
-    "PRIMARY_DARK_800": "#151515",
-    "BRAND_NEW": "#5368F9",
-    "STATUS_RED": "#E93422",
-    "STATUS_GREEN_600": "#58A162"
+  "rawColors": {
+    "PRIMARY": "#000000",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#B6B6B6",
+    "PRIMARY_360": "#C8C8C8",
+    "PRIMARY_400": "#808080",
+    "PRIMARY_500": "#5368F9",
+    "PRIMARY_600": "#111011",
+    "PRIMARY_630": "#1a1b21",
+    "PRIMARY_700": "#101010",
+    "PRIMARY_800": "#151515",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_10": "#828282",
+    "PLUM_11": "#232223",
+    "PLUM_13": "#8879FF",
+    "PLUM_17": "#000000",
+    "PLUM_18": "#111011",
+    "PLUM_19": "#111011",
+    "PLUM_20": "#111011",
+    "PLUM_22": "#111011",
+    "BRAND": "#5368F9",
+    "RED": "#E93422",
+    "GREEN_600": "#58A162"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
