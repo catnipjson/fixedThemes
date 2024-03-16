@@ -1,11 +1,12 @@
 {
-  "name": "Lavender",
-  "description": "port",
-  "version": "1.0",
+  "name": "Lavender V2",
+  "description": "Fixed version of the 'lavender' theme.",
   "authors": [
     {
       "name": "Neyako",
-      "id": "329946665043623936"
+      "id": "329946665043623936",
+      "name": "darealyeeto",
+      "id": "980160393093730395"
     }
   ],
   "specs": 1,
@@ -132,7 +133,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#c",
+    "PRIMARY_DARK": "#000000",
     "PRIMARY_DARK_100": "#FFFFFF",
     "PRIMARY_DARK_200": "#FFFFFF",
     "PRIMARY_DARK_300": "#B6B6B6",
