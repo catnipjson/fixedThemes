@@ -1,7 +1,7 @@
 {
-  "name": "Dark Matter",
-  "description": "Dark Matter is an intense, almost black shade of purple, evoking a sense of depth and mystery.",
-  "color": "#4E0083",
+  "name": "Lavender",
+  "description": "Lavender is a light, soft shade of purple, reminiscent of the flower of the same name.",
+  "color": "#DFA8E4",
   "authors": [
     {
       "name": "darealyeeto",
@@ -22,19 +22,19 @@
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -58,7 +58,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
@@ -78,11 +78,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#8879FF",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#8879FF",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -135,7 +135,7 @@
       "#111011"
     ],
     "TEXT_LINK": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ],
     "KEYBOARD": [
@@ -143,7 +143,7 @@
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#4E0083",
+      "#DFA8E4",
       "#FFFFFF"
     ]
   },
@@ -154,7 +154,7 @@
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#C8C8C8",
     "PRIMARY_400": "#808080",
-    "PRIMARY_500": "#4E0083",
+    "PRIMARY_500": "#DFA8E4",
     "PRIMARY_600": "#111011",
     "PRIMARY_630": "#1a1b21",
     "PRIMARY_700": "#101010",
@@ -168,7 +168,7 @@
     "PLUM_19": "#111011",
     "PLUM_20": "#111011",
     "PLUM_22": "#111011",
-    "BRAND": "#4E0083",
+    "BRAND": "#DFA8E4",
     "RED": "#E93422",
     "GREEN_600": "#58A162"
   },
