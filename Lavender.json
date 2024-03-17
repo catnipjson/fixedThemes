@@ -1,6 +1,7 @@
 {
   "name": "Lavender",
   "description": "Blooming lavender.",
+  "color": "#8879FF",
   "authors": [
     {
       "name": "darealyeeto",
@@ -77,11 +78,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
+      "#8879FF",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 255, 255, 0.02)",
+      "#8879FF",
       "hsla(214, 9.9%, 50.4%, 0.08)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -143,6 +144,10 @@
     ],
     "KEYBOARD": [
       "#111011",
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#8879FF",
       "#FFFFFF"
     ]
   },
