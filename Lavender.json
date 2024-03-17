@@ -1,7 +1,7 @@
 {
   "name": "Lavender",
   "description": "Lavender is a light, soft shade of purple, reminiscent of the flower of the same name.",
-  "color": "#DFA8E4",
+  "color": "#9279BA",
   "authors": [
     {
       "name": "darealyeeto",
@@ -22,19 +22,19 @@
       "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -58,7 +58,7 @@
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
@@ -78,11 +78,11 @@
       "#ffffff"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
@@ -135,7 +135,7 @@
       "#111011"
     ],
     "TEXT_LINK": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ],
     "KEYBOARD": [
@@ -143,7 +143,7 @@
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#DFA8E4",
+      "#9279BA",
       "#FFFFFF"
     ]
   },
@@ -154,12 +154,15 @@
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#C8C8C8",
     "PRIMARY_400": "#808080",
-    "PRIMARY_500": "#DFA8E4",
+    "PRIMARY_500": "#9279BA",
     "PRIMARY_600": "#111011",
     "PRIMARY_630": "#1a1b21",
     "PRIMARY_700": "#101010",
     "PRIMARY_800": "#151515",
     "PLUM_1": "#FFFFFF",
+    "PLUM_3": "#9279BA",
+    "PLUM_6": "#FFFFFF",
+    "PLUM_9": "#FFFFFF",
     "PLUM_10": "#828282",
     "PLUM_11": "#232223",
     "PLUM_13": "#554C95",
@@ -168,7 +171,7 @@
     "PLUM_19": "#111011",
     "PLUM_20": "#111011",
     "PLUM_22": "#111011",
-    "BRAND": "#DFA8E4",
+    "BRAND": "#9279BA",
     "RED": "#E93422",
     "GREEN_600": "#58A162"
   },
