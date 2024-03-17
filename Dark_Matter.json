@@ -1,7 +1,7 @@
 {
-  "name": "Lavender",
-  "description": "Blooming lavender.",
-  "color": "#8879FF",
+  "name": "Dark Matter",
+  "description": "Dark Matter is an intense, almost black shade of purple, evoking a sense of depth and mystery.",
+  "color": "#4E0083",
   "authors": [
     {
       "name": "darealyeeto",
@@ -11,35 +11,35 @@
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#ffffff",
-      "#060607"
+      "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
       "#c8c8c8",
-      "#4f5660"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#FBFBFB",
-      "#2e3338"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "TEXT_MUTED": [
-      "#8879FF",
-      "#8879FF"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8879FF",
-      "#8879FF"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#8879FF",
-      "#8879FF"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#8879FF",
-      "#8879FF"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
       "#363636",
-      "#c7ccd1"
+      "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
       "#111011",
@@ -47,19 +47,19 @@
     ],
     "BACKGROUND_SECONDARY": [
       "#111011",
-      "#f2f3f5"
+      "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#000000",
-      "#ebedef"
+      "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
       "#000000",
-      "#e3e5e8"
+      "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#8879FF",
-      "#747f8d"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
       "#000000",
@@ -67,7 +67,7 @@
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#000000",
-      "#f8f9f9"
+      "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
       "#111011",
@@ -83,39 +83,39 @@
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "#8879FF",
-      "hsla(214, 9.9%, 50.4%, 0.08)"
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 255, 255, 0.03)",
-      "hsla(214, 9.9%, 50.4%, 0.16)"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 255, 255, 0.04)",
-      "hsla(214, 9.9%, 50.4%, 0.24)"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
-      "hsla(240, 7.7%, 2.5%, 0.08)"
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#201E25",
-      "hsla(217, 7.6%, 33.5%, 0.3)"
+      "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent",
-      "hsla(0, 0%, 0%, 0)"
+      "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#201E25",
-      "#cccccc"
+      "#FFFFFF"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.1)",
-      "#f2f2f2"
+      "#FFFFFF",
+      "#FFFFFF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#111111",
-      "#ebedef"
+      "#FFFFFF"
     ],
     "CHAT_BACKGROUND": [
       "#111011",
@@ -123,7 +123,7 @@
     ],
     "CHANNELS_DEFAULT": [
       "#c8c8c8",
-      "#6a7480"
+      "#FFFFFF"
     ],
     "CARD_PRIMARY_BG": [
       "#000000"
@@ -135,15 +135,15 @@
       "#111011"
     ],
     "TEXT_LINK": [
-      "#8879FF",
-      "#000000"
+      "#4E0083",
+      "#FFFFFF"
     ],
     "KEYBOARD": [
       "#111011",
       "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#8879FF",
+      "#4E0083",
       "#FFFFFF"
     ]
   },
@@ -154,7 +154,7 @@
     "PRIMARY_300": "#B6B6B6",
     "PRIMARY_360": "#C8C8C8",
     "PRIMARY_400": "#808080",
-    "PRIMARY_500": "#8879FF",
+    "PRIMARY_500": "#4E0083",
     "PRIMARY_600": "#111011",
     "PRIMARY_630": "#1a1b21",
     "PRIMARY_700": "#101010",
@@ -168,7 +168,7 @@
     "PLUM_19": "#111011",
     "PLUM_20": "#111011",
     "PLUM_22": "#111011",
-    "BRAND": "#8879FF",
+    "BRAND": "#4E0083",
     "RED": "#E93422",
     "GREEN_600": "#58A162"
   },
