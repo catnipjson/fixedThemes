@@ -117,17 +117,13 @@
       "#111111",
       "#ebedef"
     ],
+    "CHAT_BACKGROUND": [
+      "#111011",
+      "#FFFFFF"
+    ],
     "CHANNELS_DEFAULT": [
       "#c8c8c8",
       "#6a7480"
-    ],
-    "BG_BASE_PRIMARY": [
-      "#111011",
-      "#111011"
-    ],
-    "BG_BASE_SECONDARY": [
-      "#111011",
-      "#111011"
     ],
     "CARD_PRIMARY_BG": [
       "#000000"
