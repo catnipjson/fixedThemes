@@ -1,11 +1,15 @@
 {
   "name": "ClearVision",
-  "version": "1.1",
-  "description": "Credits to Zerthox for the better discord theme",
+  "version": "1.2",
+  "description": "Credits to Zerthox for the better discord theme. fixed by catnip :3",
   "authors": [
     {
       "name": "Madhav",
       "id": "757530324686340197"
+    }
+    {
+    "name": "catnip.json",
+      "id": "980160393093730395"
     }
   ],
   "theme_color_map": {
@@ -153,7 +157,7 @@
   },
   "background": {
     "blur": 0.5,
-    "url": "https://cdn.discordapp.com/attachments/758968292689051668/1031542384544186398/IMG_2066.jpg?ex=66016c35&is=65eef735&hm=4e6bdb6d5fde478e7133ad77057cbb254f19f32a4ca98f303da9e97041214def&",
+    "url": "https://github.com/user-attachments/assets/ddbc0636-e00e-40ed-a56a-b1259b35c7b2",
     "alpha": 0.6
   }
 }
